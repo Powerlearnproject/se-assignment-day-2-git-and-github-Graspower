@@ -52,9 +52,12 @@ limited collaboration-only those permitted can access
 cost-private repository come with costs from many platforms.
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
-
+create a repository and edit the changes
+click on the commit changes button
+choose whether to commit on the main branch or new branch.
+commits are saving changes made on the file and they help to store and backup data.
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
-
+branching-allows you to work on different versions or features of a project simultaneously. 
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
